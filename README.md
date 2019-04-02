@@ -1,3 +1,3 @@
 # Stage
 
-[revision](revision.md)
+[revision du jour](revision.md)
